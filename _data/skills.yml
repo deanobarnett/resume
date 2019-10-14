@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Languages/Frameworks
+  description: Ruby (Rails), Python (Flask), Go.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Databases/Message Brokers
+  description: MySQL, Postgres, Kafka, RMQ.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Other Tools
+  description: Docker, Mesos & Marathon, NewRelic, statsd.
+
+- skill: Software Design
+  description: Experience in refactoring monolithic applications, and working with a service oriented architecture.
+
+- skill: Leadership
+  description: Several years experience acting as a Technical Lead in different teams, and also mentoring other Engineers.
