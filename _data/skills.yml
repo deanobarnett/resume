@@ -1,12 +1,12 @@
 # Skills
 - skill: Languages/Frameworks
-  description: Ruby (Rails), Python (Flask), Go.
+  description: Ruby (Rails), Python (Flask), Go, JS, Lua.
 
 - skill: Databases/Message Brokers
   description: MySQL, Postgres, Kafka, RMQ.
 
 - skill: Other Tools
-  description: Docker, Mesos & Marathon, NewRelic, statsd.
+  description: Docker, Mesos & Marathon, NewRelic, statsd, ElasticSearch, gRPC, Linux.
 
 - skill: Software Design
   description: Experience in refactoring monolithic applications, and working with a service oriented architecture.
