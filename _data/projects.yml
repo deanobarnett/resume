@@ -1,6 +1,6 @@
 - project: Ganbaru
-  # role: Founder & Primary Developer
+  role: Primary Developer
   duration: 2016 &mdash; Present
   url: "https://github.com/deanobarnett/ganbaru"
   description: >
-    <p>Ganbaru helps to deal with large, unwieldy test suites. It uses a queue and workers setup to parallelize your RSpec test suite, with a fairly even distribution in runtime.</p>
+    <p>Ganbaru is a gem that helps large Rails apps deal with unwieldy test suites. It uses a queue and workers setup to parallelize your RSpec test suite, with a fairly even distribution in runtime.</p>

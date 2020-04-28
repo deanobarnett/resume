@@ -1,28 +1,31 @@
-- company: Teamwork
+- company: <a href="https://www.teamwork.com/spaces/">Teamwork</a>
   position: Senior Engineer
   duration: March, 2020 &mdash; present
   summary: >
-    <p>Working as a backend engineer on the Spaces team. This role involved maintaining the Go APIs, working with the front end and product teams to deliver new features and helper mentor junior members of the team.</p>
+    <p>Working as a backend engineer on the Spaces Team helping customers organise and share documentation.</p>
+    <p>Maintaining multiple Go services, working with the front end and product teams to deliver new features and help mentor junior members of the team.</p>
+    <p>As part of this role I have also improved monitoring and visibility into errors and API response times. In addition to this identifying and resolving performance bottlenecks</p>
 
-- company: Slice
+- company: <a href="https://slicelife.com/">Slice</a>
   position: Principal Engineer
-  duration: Nov, 2017 &mdash; Nov, 2019
+  duration: Nov, 2017 &mdash; Dec, 2019
   summary: >
+    <p>Working as a Principal Engineer building and maintaining the backend for a pizza delivery app.</p>
     <p>Acted as the Technical Lead for the Integrations Team, which created and maintained third party integrations to help customers run their business. Worked on large scale refactors of business critical code. Provided technical guidance to the engineers across teams.</p>
-    <p>In addition worked in an Individual Contributor role resolving ongoing performance and stability issues to allow for scaling.</p>
+    <p>In addition worked in an Individual Contributor role, defining and quantifying work to resolve ongoing performance and stability issues to allow for scaling.</p>
     <p>Helped promote Software Engineering best practices through code review and mentorship</p>
     <p>Involved in technical hiring.</p>
 
-- company: ShopKeep
+- company: <a href="https://www.shopkeep.com/">ShopKeep</a>
   position: Senior Engineer
   duration: April, 2014 &mdash; Nov, 2017
   summary: >
     <p>Primarily a backend focused Engineer working on services to support an iPad based Point of Sale System.</p>
     <p>Involved in a wide range of projects from a large database migration from MySQL to Postgres, improving the inventory management system to re-working transaction processing to use Kafka.</p>
-    <p>Also worked as part of a team that rebuilt major reporting components for performance and consistency. Additionally was involved in many stability, reliability and performance pieces of work to help support millions of transactions for customers.</p>
+    <p>Also worked as part of a team that rebuilt major reporting components for performance and consistency. Additionally was involved in many stability, reliability and performance pieces of work to help support millions of daily transactions for customers.</p>
     <p>Aided in the hiring process.</p>
 
-- company: FINEOS
+- company: <a href="https://www.fineos.com">FINEOS</a>
   position: Software Engineer
   duration: July, 2010  &mdash; April, 2014
   summary: Worked on a J2EE stack fixing customer bugs and developing new features.

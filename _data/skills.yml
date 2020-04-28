@@ -1,15 +1,15 @@
 # Skills
 - skill: Languages/Frameworks
-  description: Ruby (Rails), Python (Flask), Go, JS, Lua.
+  description: Ruby (Rails), Go, Python (Flask), JS, Lua (mostly for making Warcraft Addons).
 
 - skill: Databases/Message Brokers
   description: MySQL, Postgres, Kafka, RMQ.
 
 - skill: Other Tools
-  description: Docker, Mesos & Marathon, NewRelic, statsd, ElasticSearch, gRPC, Linux.
+  description: Docker, Mesos/Marathon, Kubernetes, Linux, statsd, ElasticSearch, gRPC.
 
 - skill: Software Design
-  description: Experience in refactoring monolithic applications, and working with a service oriented architecture.
+  description: Experience in refactoring monolithic applications to introduce better boundaries, working with a service oriented architecture and the process of migrating.
 
 - skill: Leadership
   description: Several years experience acting as a Technical Lead in different teams, and also mentoring other Engineers.
